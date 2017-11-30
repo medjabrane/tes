@@ -89,4 +89,13 @@
     <plugin name="phonegap-plugin-push" spec="^2.0.0">
         <variable name="SENDER_ID" value="XXXXX" />
     </plugin>
+     <gap:plugin name="cordova-plugin-console" source="npm" />
+    <gap:plugin name="cordova-plugin-device" source="npm" />
+    <gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
+    <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
+    <gap:plugin name="cordova-plugin-statusbar" source="npm" />
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+    <gap:plugin name="cordova-sqlite-storage" source="npm" />
+    <gap:plugin name="ionic-plugin-keyboard" source="npm" />
+    <gap:plugin name="phonegap-plugin-push" source="npm"/>
 </widget>
